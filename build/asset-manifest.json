@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/second-react-project.git/static/css/main.4463fc20.css",
+    "main.js": "/second-react-project.git/static/js/main.5c0f70c8.js",
+    "index.html": "/second-react-project.git/index.html",
+    "main.4463fc20.css.map": "/second-react-project.git/static/css/main.4463fc20.css.map",
+    "main.5c0f70c8.js.map": "/second-react-project.git/static/js/main.5c0f70c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4463fc20.css",
+    "static/js/main.5c0f70c8.js"
+  ]
+}
